@@ -117,11 +117,10 @@
                       class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
                       <div class="content">
-                          <h3>Kapal <strong>velit pariatur architecto aut nihil</strong></h3>
+                          <h3>Kapal <strong>Ambulance</strong></h3>
                           <p>
-                              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                              ut
-                              labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                              Kapal ini di peruntukan bagi yang sakit dan juga membawa pasien dari laut ke darat atau
+                              ada terjadi hal hal kecelakaan yang berada di air atau kapal tenggelam
                           </p>
                       </div>
 
@@ -179,7 +178,8 @@
                   </div>
 
                   <div class="col-lg-5 align-items-stretch order-1 order-lg-2 img"
-                      style='background-image: url("assets/img/why-us.png");' data-aos="zoom-in" data-aos-delay="150">
+                      style='background-image: url("assets/img/Ambulance.png");' data-aos="zoom-in"
+                      data-aos-delay="150">
                       &nbsp;</div>
               </div>
 
@@ -192,10 +192,10 @@
 
               <div class="row">
                   <div class="col-lg-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-                      <img src="assets/img/skills.png" class="img-fluid" alt="">
+                      <img src="assets/img/Ambulance.png" class="img-fluid" alt="">
                   </div>
                   <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-                      <h3>Voluptatem dignissimos provident quasi corporis voluptates</h3>
+                      <h3>Kecepatan Kapal Dan Kualitas</h3>
                       <p class="fst-italic">
                           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                           labore et dolore
@@ -205,7 +205,15 @@
                       <div class="skills-content">
 
                           <div class="progress">
-                              <span class="skill">HTML <i class="val">100%</i></span>
+                              <span class="skill">TOP Speed <i class="val">40 Knots</i></span>
+                              <div class="progress-bar-wrap">
+                                  <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0"
+                                      aria-valuemax="100"></div>
+                              </div>
+                          </div>
+
+                          <div class="progress">
+                              <span class="skill">Kapasita <i class="val">10 Org</i></span>
                               <div class="progress-bar-wrap">
                                   <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0"
                                       aria-valuemax="100"></div>
@@ -213,25 +221,17 @@
                           </div>
 
                           <div class="progress">
-                              <span class="skill">CSS <i class="val">90%</i></span>
+                              <span class="skill">Jarak Tempu <i class="val">12 Kilo</i></span>
                               <div class="progress-bar-wrap">
-                                  <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                  <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
                                       aria-valuemax="100"></div>
                               </div>
                           </div>
 
                           <div class="progress">
-                              <span class="skill">JavaScript <i class="val">75%</i></span>
+                              <span class="skill">Bobot Kapal <i class="val">800 Kg</i></span>
                               <div class="progress-bar-wrap">
-                                  <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0"
-                                      aria-valuemax="100"></div>
-                              </div>
-                          </div>
-
-                          <div class="progress">
-                              <span class="skill">Photoshop <i class="val">55%</i></span>
-                              <div class="progress-bar-wrap">
-                                  <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
+                                  <div class="progress-bar" role="progressbar" aria-valuenow="76" aria-valuemin="0"
                                       aria-valuemax="100"></div>
                               </div>
                           </div>
@@ -256,37 +256,58 @@
                       fugiat sit in iste officiis commodi quidem hic quas.</p>
               </div>
 
+              {{-- dockling --}}
               <div class="row">
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                  <div class="col-xl-2 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                       <div class="icon-box">
-                          <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                          <h4><a href="">Lorem Ipsum</a></h4>
+                          <div class="icon"><i class="bx bxs-ship"></i></div>
+                          <h4><a href="">Docking Ship</a></h4>
                           <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
                       </div>
                   </div>
 
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
+                  {{-- document --}}
+                  <div class="col-xl-2 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
                       data-aos-delay="200">
                       <div class="icon-box">
                           <div class="icon"><i class="bx bx-file"></i></div>
-                          <h4><a href="">Sed ut perspici</a></h4>
+                          <h4><a href="">Document Ship</a></h4>
                           <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
                       </div>
                   </div>
 
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in"
+                  {{-- waktu pengerjaan --}}
+                  <div class="col-xl-2 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in"
                       data-aos-delay="300">
                       <div class="icon-box">
                           <div class="icon"><i class="bx bx-tachometer"></i></div>
-                          <h4><a href="">Magni Dolores</a></h4>
+                          <h4><a href="">Estimasi</a></h4>
                           <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
                       </div>
                   </div>
 
-                  <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in"
+                  <div class="col-xl-2 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in"
                       data-aos-delay="400">
                       <div class="icon-box">
-                          <div class="icon"><i class="bx bx-layer"></i></div>
+                          <div class="icon"><i class="bx bi-gear"></i></div>
+                          <h4><a href="">Maintenance Ship</a></h4>
+                          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                      </div>
+                  </div>
+
+                  <div class="col-xl-2 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in"
+                      data-aos-delay="400">
+                      <div class="icon-box">
+                          <div class="icon"><i class="bx ri-ship-2-line"></i></div>
+                          <h4><a href="">Sea Trial</a></h4>
+                          <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                      </div>
+                  </div>
+
+                  <div class="col-xl-2 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in"
+                      data-aos-delay="400">
+                      <div class="icon-box">
+                          <div class="icon"><i class="bx bx-maki-harbor"></i></div>
                           <h4><a href="">Nemo Enim</a></h4>
                           <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
                       </div>
