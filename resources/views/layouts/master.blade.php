@@ -44,6 +44,8 @@
 
     @include('layouts.include.body')
 
+    @yield('content')
+
     @include('layouts.include.footer')
 
 

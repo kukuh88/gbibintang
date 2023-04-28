@@ -5,7 +5,7 @@
           <div class="row">
               <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
                   data-aos="fade-up" data-aos-delay="200">
-                  <h1>E-commerce DAK</h1>
+                  <h1>E-COMmerce DAK</h1>
                   <h2>PT DOK DAN PERKALAPAN AIR KANTUNG</h2>
                   <div class="d-flex justify-content-center justify-content-lg-start">
                       <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -29,29 +29,29 @@
 
               <div class="row" data-aos="zoom-in">
 
-                  <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  {{-- <div class="col-lg-4 col-md-3 col-6 d-flex align-items-center justify-content-center">
                       <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+                  </div> --}}
+
+                  <div class="col-lg-4 col-md-3 col-6 d-flex align-items-center justify-content-center">
+                      <img src="assets/img/clients/client-2.png" class="img-fluid">
                   </div>
 
-                  <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                      <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
-                  </div>
-
-                  <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  <div class="col-lg-4 col-md-3 col-6 d-flex align-items-center justify-content-center">
                       <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
                   </div>
 
-                  <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  <div class="col-lg-4 col-md-3 col-6 d-flex align-items-center justify-content-center">
                       <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
                   </div>
 
-                  <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  {{-- <div class="col-lg-4 col-md-3 col-6 d-flex align-items-center justify-content-center">
                       <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-                  </div>
+                  </div> --}}
 
-                  <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  {{-- <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
                       <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-                  </div>
+                  </div> --}}
 
               </div>
 
@@ -68,12 +68,19 @@
 
               <div class="row content">
                   <div class="col-lg-6">
-                      <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                          labore et dolore
-                          magna aliqua.
-                      </p>
-                      <ul>
+                      <span>
+                          PT Dok dan Perkapalan Air Kantung adalah Anak Perusahaan dari PT Timah Tbk, anggota dari MIND
+                          ID ( Mining Industri Indonesia) dan BUMN Holding Industri Pertambangan, merupakan perusahaan
+                          galangan kapal yang bergerak dalam bidang Ship Repair, Ship Building, Docking dan Repair
+                          Engineering, Construction, Ship Equipment Supplies dengan spesialisasi dalam Pembuatan Kapal
+                          antara lain Tug Boat maupun Barge, Kapal Isap, Cargo, Kapal Bor, Kapal Patroli yang berbahan
+                          Aluminium, dan lain-lain. Berdiri pada tanggal 01 Februari 1996 berdasarkan Akte Notaris Imas
+                          Fatimah, SH Nomor 01 tanggal 01 Februari 1996. PT Timah Tbk adalah pemilik saham mayoritas PT
+                          DAK. Untuk Mendukung Operasionalnya PT DAK memiliki dua galangan berlokasi di Kawasan Industri
+                          Air Kantung Sungailiat - Bangka Induk dan di area Selindung - Pangkalpinang Provinsi Kepulauan
+                          Bangka Belitung dan Lombok Timur - Nusa Tenggara Barat
+                      </span>
+                      {{-- <ul>
                           <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
                               consequat
                           </li>
@@ -82,7 +89,7 @@
                           <li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo
                               consequat
                           </li>
-                      </ul>
+                      </ul> --}}
                   </div>
                   <div class="col-lg-6 pt-4 pt-lg-0">
                       <p>
@@ -110,7 +117,7 @@
                       class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
                       <div class="content">
-                          <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+                          <h3>Kapal <strong>velit pariatur architecto aut nihil</strong></h3>
                           <p>
                               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
                               ut
